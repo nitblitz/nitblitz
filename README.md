@@ -8,7 +8,7 @@
 -->
 
 - 🔭 I love reading stories,doing inventions, playing badminton.
-- 🌱 I’m currently learning Scratch, Science and Math.
+- 🌱 I’m currently learning Science, Math and more.
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Scratch, maths,Time Table Rock Stars
