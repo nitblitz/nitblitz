@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 My name is Nitin Luthra and I am 9 year old studying in year 4.
+🌱 I am Nitblitz.I am in year 5.
 
 🌱 I am also learning how to code and test software.
 <!--
@@ -11,9 +11,11 @@
 - 🌱 I’m currently learning Scratch, Science and Math.
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about maths,Time Table Rock Stars
+- 💬 Ask me about Scratch, maths,Time Table Rock Stars
+- 
+I am an expert on Scratch and its one of my hobbies
 
-Time Table Rock Stars is a web based learning and competing plattform. On this website school students login to practice, learn and compete against each other in the class online. Sometime
+Time Table Rock Stars is a web based learning and competing plattform. On this website school students login to practice, learn and compete against each other in the class online. 
 <!-- ⚡ Fun fact: ...-->
 
 Thanks 
